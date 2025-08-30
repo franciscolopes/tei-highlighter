@@ -302,7 +302,7 @@ if not id_options:
     st.warning("No IDs for the selected capítulo.")
     st.stop()
 
-id_sel = st.sidebar.selectbox("ID", id_options)
+id_sel = st.sidebar.selectbox("Unity", id_options)
 
 row_df = df_filtered[df_filtered["id"] == id_sel]
 row = None if row_df.empty else row_df.iloc[0]

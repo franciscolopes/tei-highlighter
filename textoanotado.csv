@@ -14,86 +14,35 @@ isto verdade? Ainda mal!",I,I,"<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:l
   <body>
     <div>
       <p>
-        <lb n=""1""/><seg ana=""#citação"">«Vós» diz</seg> <persName>Cristo Senhor nosso</persName>, falando com os pregadores, 
-        <seg ana=""#citação"">«sois o sal da terra»</seg>: e
-        <lb n=""2""/>chama-lhes <seg ana=""#metáfora""><term type=""conceito"">sal da terra</term></seg>, porque quer que façam na terra o que faz o sal. O efeito do sal é
-        <lb n=""3""/>impedir a corrupção, mas quando a terra se vê tão corrupta como está a nossa, havendo
-        <lb n=""4""/>tantos nela que têm ofício de sal, qual será, ou qual pode ser a causa desta corrupção? <seg ana=""#interrogacao_retórica"">Ou é
-        <lb n=""5""/>porque o sal não salga, ou porque a terra se não deixa salgar</seg>. <seg ana=""#anáfora"">Ou é porque o sal não salga, e
-        <lb n=""6""/>os pregadores não pregam a verdadeira doutrina; ou porque a terra se não deixa salgar, e os
-        <lb n=""7""/>ouvintes, sendo verdadeira a doutrina que lhe dão, a não querem receber</seg>. <seg ana=""#anáfora"">Ou é porque o sal
-        <lb n=""8""/>não salga, e os pregadores dizem uma cousa e fazem outra; ou porque a terra se não deixa
-        <lb n=""9""/>salgar, e os ouvintes querem antes imitar o que eles fazem, que fazer o que dizem</seg>. <seg ana=""#anáfora"">Ou é
-        <lb n=""10""/>porque o sal não salga, e os pregadores se pregam a si e não a <persName>Cristo</persName>; ou porque a terra se
-        <lb n=""11""/>não deixa salgar, e os ouvintes, em vez de servir a <persName>Cristo</persName>, servem a seus apetites</seg>. <seg ana=""#interrogacao_retórica"">Não é tudo
+        <lb n=""1""/>«<cit><q ana=""#citação"">Vós</q><bibl><ref target=""https://www.bibliaonline.com.br/vaa/mt/5/13"">Mt 5:13</ref></bibl></cit>» diz <persName type=""divindade"">Cristo Senhor nosso</persName>, falando com <rs type=""group"">os pregadores</rs>, «<cit><q ana=""#citação"">sois o <seg ana=""#metáfora"">sal da terra</seg></q><bibl><ref target=""https://www.bibliaonline.com.br/vaa/mt/5/13"">Mt 5:13</ref></bibl></cit>»: e
+        <lb n=""2""/>chama-lhes <seg ana=""#metáfora"">sal da terra</seg>, porque quer que façam na terra o que faz o sal. O efeito do sal é
+        <lb n=""3""/>impedir a <term type=""vicio"">corrupção</term>, mas quando a terra se vê tão corrupta como está a nossa, havendo
+        <lb n=""4""/>tantos nela que têm ofício de sal, <seg ana=""#interrogacao_retórica"">qual será, ou qual pode ser a causa desta <term type=""vicio"">corrupção</term>?</seg> <seg ana=""#anáfora #enumeração #paralelismo"">Ou é</seg>
+        <lb n=""5""/><seg ana=""#anáfora #enumeração #paralelismo"">porque o sal não salga</seg>, <seg ana=""#anáfora #enumeração #paralelismo"">ou porque a terra se não deixa salgar</seg>. <seg ana=""#anáfora #enumeração #paralelismo"">Ou é porque o sal não salga</seg>, e
+        <lb n=""6""/><rs type=""group"">os pregadores</rs> não pregam <term type=""conceito"">a verdadeira doutrina</term>; <seg ana=""#anáfora #enumeração #paralelismo"">ou porque a terra se não deixa salgar</seg>, e <rs type=""group"">os
+        <lb n=""7""/>ouvintes</rs>, sendo verdadeira <term type=""conceito"">a doutrina</term> que lhe dão, a não querem receber. <seg ana=""#anáfora #enumeração #paralelismo"">Ou é</seg>
+        <lb n=""8""/><seg ana=""#anáfora #enumeração #paralelismo"">porque o sal não salga</seg>, e <rs type=""group"">os pregadores</rs> <seg ana=""#antítese #paralelismo"">dizem uma cousa e fazem outra</seg>; <seg ana=""#anáfora #enumeração #paralelismo"">ou porque a terra se não deixa
+        <lb n=""9""/>salgar</seg>, e <rs type=""group"">os ouvintes</rs> querem antes <seg ana=""#antítese #paralelismo"">imitar o que eles fazem, que fazer o que dizem</seg>. <seg ana=""#anáfora #enumeração #paralelismo"">Ou é</seg>
+        <lb n=""10""/><seg ana=""#anáfora #enumeração #paralelismo"">porque o sal não salga</seg>, e <rs type=""group"">os pregadores</rs> <seg ana=""#antítese #paralelismo"">se pregam a si e não a <persName type=""divindade"">Cristo</persName></seg>; <seg ana=""#anáfora #enumeração #paralelismo"">ou porque a terra se
+        <lb n=""11""/>não deixa salgar</seg>, e <rs type=""group"">os ouvintes</rs>, <seg ana=""#antítese #paralelismo"">em vez de servir a <persName type=""divindade"">Cristo</persName>, servem a seus <term type=""vicio"">apetites</term></seg>. <seg ana=""#interrogacao_retórica"">Não é tudo
         <lb n=""12""/>isto verdade?</seg> <seg ana=""#exclamação"">Ainda mal!</seg>
       </p>
     </div>
   </body>
-</text>
- "
+</text>"
 "Suposto, pois, que, ou o sal não salgue ou a terra se não deixe salgar; que se há-de fazer a este sal, e que se há-de fazer a esta terra? O que se há-de fazer ao sal que não salga? Cristo o disse logo: Quod si sal evanuerit, in quo salietur? Ad nihilum valet ultra, nisi ut mittatur foras et conculcetur ab hominibus (Mateus 5.13). Se o sal perder a substância e a virtude, e o pregador faltar à doutrina e ao exemplo, o que se lhe há-de fazer, é lançá-lo fora como inútil, para que seja pisado de todos. Quem se atreverá a dizer tal cousa, se o mesmo Cristo a não pronunciara? Assim como não há quem seja mais digno de reverência e de ser posto sobre a cabeça, que o pregador que ensina e faz o que deve; assim é merecedor de todo o desprezo e de ser metido debaixo dos pés o que com a palavra ou com a vida prega o contrário. 
-Isto é o que se deve fazer ao sal que não salga. E à terra, que se não deixa salgar, que se lhe há-de fazer? Este ponto não resolveu Cristo Senhor nosso no Evangelho; mas temos sobre ele a resolução do nosso grande português Santo António, que hoje celebramos, e a mais galharda e gloriosa resolução que nenhum santo tomou. 
-",I,II,"<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
+Isto é o que se deve fazer ao sal que não salga. 
+/ E à terra, que se não deixa salgar, que se lhe há-de fazer? Este ponto não resolveu Cristo Senhor nosso no Evangelho; mas temos sobre ele a resolução do nosso grande português Santo António, que hoje celebramos, e a mais galharda e gloriosa resolução que nenhum santo tomou. ",I,II,"<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
   <body>
     <div>
       <p>
-        <lb n=""1""/>Suposto, pois, que, 
-        <seg ana=""#anáfora"">
-          ou o <term type=""conceito"">sal</term> não salgue ou a 
-          <term type=""conceito"">terra</term> se não deixe salgar
-        </seg>; 
-        <lb n=""2""/>que se há-de fazer a este 
-        <term type=""conceito"">sal</term>, e que se há-de fazer a esta 
-        <term type=""conceito"">terra</term>? 
-        <lb n=""3""/>
-        <seg ana=""#interrogacao_retórica"">
-          O que se há-de fazer ao <term type=""conceito"">sal</term> que não salga?
-        </seg>
-        <lb n=""4""/>
-        <persName>Cristo</persName> o disse logo: 
-        <cit>
-          <q ana=""#citação"">
-            <foreign xml:lang=""la"">
-              Quod si sal evanuerit, in quo salietur? Ad nihilum valet ultra, 
-              nisi ut mittatur foras et conculcetur ab hominibus
-            </foreign>
-          </q>
-          <bibl>
-            <ref>Mateus 5.13</ref>
-          </bibl>
-        </cit>. 
-        <lb n=""5""/>Se o <term type=""conceito"">sal</term> perder a substância e a 
-        <term type=""virtude"">virtude</term>, e o <term type=""conceito"">pregador</term> 
-        faltar à <term type=""conceito"">doutrina</term> e ao 
-        <term type=""conceito"">exemplo</term>, 
-        <lb n=""6""/>o que se lhe há-de fazer, é lançá-lo fora como inútil, para que seja pisado de todos. 
-        <lb n=""7""/>
-        <seg ana=""#interrogacao_retórica"">
-          Quem se atreverá a dizer tal cousa, se o mesmo <persName>Cristo</persName> a não pronunciara?
-        </seg>
-        <lb n=""8""/>
-        <seg ana=""#paralelismo"">
-          Assim como não há quem seja mais digno de reverência e de ser posto sobre a cabeça, 
-          que o <term type=""conceito"">pregador</term> que ensina e faz o que deve; 
-          assim é merecedor de todo o desprezo e de ser metido debaixo dos pés 
-          o que com a palavra ou com a vida prega o contrário.
-        </seg>
-        <lb n=""9""/>Isto é o que se deve fazer ao <term type=""conceito"">sal</term> que não salga. 
-        <lb n=""10""/>
-        <seg ana=""#interrogacao_retórica"">
-          E à <term type=""conceito"">terra</term>, que se não deixa salgar, que se lhe há-de fazer?
-        </seg>
-        <lb n=""11""/>Este ponto não resolveu <persName>Cristo Senhor nosso</persName> no 
-        <term type=""conceito"">Evangelho</term>; 
-        <lb n=""12""/>mas temos sobre ele a resolução do nosso grande português 
-        <persName>Santo António</persName>, que hoje celebramos, 
-        e a mais galharda e gloriosa resolução que nenhum santo tomou. 
+        <lb n=""1""/>Suposto, pois, que, ou <seg ana=""#metáfora"">o sal</seg> não salgue ou <seg ana=""#metáfora"">a terra</seg> se não deixe salgar; <seg ana=""#interrogacao_retórica""><seg ana=""#anáfora"">que se há-de fazer</seg> a este <seg ana=""#metáfora"">sal</seg>, e <seg ana=""#anáfora"">que se há-de fazer</seg> a esta <seg ana=""#metáfora"">terra</seg>?</seg> <seg ana=""#interrogacao_retórica""><seg ana=""#anáfora"">O que se há-de fazer</seg> ao <seg ana=""#metáfora"">sal</seg> que não salga?</seg> <persName type=""divindade"">Cristo</persName> o disse logo: <cit ana=""#citação""><q><foreign xml:lang=""la"">Quod si sal evanuerit, in quo salietur? Ad nihilum valet ultra, nisi ut mittatur foras et conculcetur ab hominibus</foreign></q><bibl>Mateus 5.13</bibl></cit>. Se o <seg ana=""#metáfora"">sal</seg> perder <seg ana=""#enumeração"">a substância e a <term type=""virtude"">virtude</term></seg>, e o pregador faltar à <seg ana=""#enumeração""><term type=""conceito"">doutrina</term> e ao <term type=""conceito"">exemplo</term></seg>, <seg ana=""#anáfora"">o que se lhe há-de fazer</seg>, é lançá-lo fora como inútil, para que seja pisado de todos. <seg ana=""#interrogacao_retórica"">Quem se atreverá a dizer tal cousa, <seg ana=""#citação"">se o mesmo <persName type=""divindade"">Cristo</persName> a não pronunciara</seg>?</seg> <seg ana=""#anáfora"">Assim como</seg> <seg ana=""#antítese #paralelismo"">não há quem seja mais digno de reverência e de ser posto sobre a cabeça, que o pregador que ensina e faz o que deve</seg>; <seg ana=""#anáfora"">assim</seg> <seg ana=""#antítese #paralelismo"">é merecedor de todo o desprezo e de ser metido debaixo dos pés o que com a palavra ou com a vida prega o contrário</seg>.
+        <lb n=""2""/>Isto é <seg ana=""#anáfora"">o que se deve fazer</seg> ao <seg ana=""#metáfora"">sal</seg> que não salga.
+        <lb n=""3""/>/ <seg ana=""#interrogacao_retórica"">E à <seg ana=""#metáfora"">terra</seg>, que se não deixa salgar, <seg ana=""#anáfora"">que se lhe há-de fazer</seg>?</seg> Este ponto não resolveu <persName type=""divindade"">Cristo Senhor nosso</persName> no <term type=""conceito"">Evangelho</term>; mas temos sobre ele a resolução do nosso grande português <persName>Santo António</persName>, que hoje celebramos, e <seg ana=""#hipérbole"">a mais galharda e gloriosa resolução que nenhum santo tomou</seg>.
       </p>
     </div>
   </body>
-</text>
-"
+</text>"
 "Pregava Santo António em Itália na cidade de Arimino, contra os hereges, que nela
 eram muitos; e como erros de entendimento são dificultosos de arrancar, não só não fazia
 fruto o santo, mas chegou o povo a se levantar contra ele, e faltou pouco para que lhe não
@@ -108,52 +57,42 @@ terra, vai-se ao mar, e começa a dizer a altas vozes: «Já que me não querem 
 ouçam-me os peixes». Oh, maravilhas do Altíssimo! Oh, poderes do que criou o mar e a
 terra! Começam a ferver as ondas, começam a concorrer os peixes, os grandes, os maiores,
 os pequenos, e postos todos por sua ordem com as cabeças de fora da água, António pregava
-e eles ouviam.",I,III,"
-<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
+e eles ouviam.",I,III,"<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
   <body>
     <div>
       <p>
-        <lb n=""1""/>Pregava <persName>Santo António</persName> em <placeName>Itália</placeName> na cidade de <placeName>Arimino</placeName>, 
-        <lb n=""2""/>contra os <term type=""conceito"">hereges</term>, que nela eram muitos; e como erros de entendimento são dificultosos de 
-        <lb n=""3""/>arrancar, não só não fazia fruto o <seg ana=""#citação""><persName>santo</persName></seg>, mas chegou o povo a se 
-        <lb n=""4""/>levantar contra ele, e faltou pouco para que lhe não tirassem a vida. Que faria 
-        <lb n=""5""/><seg ana=""#interrogacao_retórica"">neste caso</seg> o ânimo generoso do grande <persName>António</persName>? 
-        <lb n=""6""/>Sacudiria o pó dos sapatos, como <seg ana=""#citação"">Cristo aconselha em outro lugar</seg>? 
-        <lb n=""7""/>Mas <persName>António</persName> com os pés descalços não podia fazer esta protestação; e 
-        <lb n=""8""/>uns pés, a que se não pegou nada da <term type=""conceito"">terra</term>, não tinham que sacudir. 
-        <lb n=""9""/>Que faria logo? Retirar-se-ia? Calar-se-ia? Dissimularia? Daria tempo ao 
-        <lb n=""10""/><seg ana=""#anáfora"">tempo</seg>? Isso ensinaria porventura a prudência, ou a covardia humana; 
-        <lb n=""11""/>mas o zelo da <term type=""conceito"">glória divina</term>, que ardia naquele peito, não se rendeu a 
-        <lb n=""12""/>semelhantes partidos. Pois que fez? Mudou somente o púlpito e o auditório, 
-        <lb n=""13""/>mas não desistiu da doutrina. Deixa as praças, vai-se às praias; deixa a 
-        <lb n=""14""/><seg ana=""#paralelismo"">terra</seg>, vai-se ao <seg ana=""#paralelismo"">mar</seg>, e começa a dizer a altas vozes: 
-        <lb n=""15""/><cit><q>«Já que me não querem ouvir os homens, ouçam-me os peixes»</q></cit>. 
-        <lb n=""16""/><seg ana=""#exclamação"">Oh, maravilhas do Altíssimo!</seg> <seg ana=""#exclamação"">Oh, poderes do que criou o mar e a terra!</seg> 
-        <lb n=""17""/>Começam a ferver as ondas, começam a concorrer os <rs type=""animals"">peixes</rs>, os grandes, 
-        <lb n=""18""/>os maiores, os pequenos, e postos todos por sua ordem com as cabeças de fora da água, 
-        <lb n=""19""/><persName>António</persName> pregava e eles ouviam.
+        <lb n=""1""/>Pregava <persName>Santo António</persName> em <placeName>Itália</placeName> na cidade de <placeName>Arimino</placeName>, contra os <rs type=""group"">hereges</rs>, que nela
+        <lb n=""2""/>eram muitos; e como <term type=""conceito"">erros de entendimento</term> são dificultosos de arrancar, não só não fazia
+        <lb n=""3""/>fruto o santo, mas chegou o <rs type=""group"">povo</rs> a se levantar contra ele, e faltou pouco para que lhe não
+        <lb n=""4""/>tirassem a vida. <seg ana=""#interrogacao_retórica"">Que faria neste caso o ânimo generoso do grande <persName>António</persName>?</seg> <seg ana=""#interrogacao_retórica"">Sacudiria o pó
+        <lb n=""5""/>dos sapatos, como <persName type=""divindade"" ref=""https://www.wikidata.org/wiki/Q302"">Cristo</persName> aconselha em outro lugar?</seg> Mas <persName>António</persName> com os pés descalços não
+        <lb n=""6""/>podia fazer esta protestação; e uns pés, a que se não pegou nada da <placeName>terra</placeName>, não tinham que
+        <lb n=""7""/>sacudir. <seg ana=""#interrogacao_retórica #anáfora"">Que faria logo?</seg> <seg ana=""#interrogacao_retórica #paralelismo #enumeração"">Retirar-se-ia?</seg> <seg ana=""#interrogacao_retórica #paralelismo #enumeração"">Calar-se-ia?</seg> <seg ana=""#interrogacao_retórica #paralelismo #enumeração"">Dissimularia?</seg> <seg ana=""#interrogacao_retórica #paralelismo #enumeração"">Daria tempo ao tempo?</seg> Isso
+        <lb n=""8""/><seg ana=""#antítese""><term type=""virtude"">prudência</term>, ou a <term type=""vicio"">covardia</term> humana</seg>; mas o <term type=""virtude"">zelo</term> da <term type=""conceito"">glória divina</term>, que
+        <lb n=""9""/><seg ana=""#metáfora"">ardia naquele peito</seg>, não se rendeu a semelhantes partidos. <seg ana=""#interrogacao_retórica"">Pois que fez?</seg> <seg ana=""#antítese"">Mudou somente o
+        <lb n=""10""/>púlpito e o auditório, mas não desistiu da <term type=""conceito"">doutrina</term></seg>. <seg ana=""#paralelismo #antítese""><seg ana=""#anáfora"">Deixa</seg> as praças, <seg ana=""#anáfora"">vai-se</seg> às praias; <seg ana=""#anáfora"">deixa</seg> a
+        <lb n=""11""/><placeName>terra</placeName>, <seg ana=""#anáfora"">vai-se</seg> ao <placeName>mar</placeName>, e começa a dizer a altas vozes: <cit><q>«Já que me não querem ouvir os <rs type=""group"">homens</rs>,
+        <lb n=""12""/>ouçam-me os <rs type=""fish"">peixes</rs>»</q></cit></seg>. <seg ana=""#apóstrofe #exclamação"">Oh, maravilhas do <persName type=""divindade"">Altíssimo</persName>!</seg> <seg ana=""#apóstrofe #exclamação"">Oh, poderes do que criou o <placeName>mar</placeName> e a
+        <lb n=""13""/><placeName>terra</placeName>!</seg> <seg ana=""#paralelismo""><seg ana=""#anáfora"">Começam a</seg> ferver as ondas, <seg ana=""#anáfora"">começam a</seg> concorrer os <rs type=""fish"">peixes</rs></seg>, <seg ana=""#enumeração #gradacao"">os grandes, os maiores,
+        <lb n=""14""/>os pequenos</seg>, e postos todos por sua ordem com as cabeças de fora da água, <persName>António</persName> pregava
+        <lb n=""15""/>e eles ouviam.
       </p>
     </div>
   </body>
-</text>
- "
+</text>"
 "Se a Igreja quer que preguemos de Santo António sobre o Evangelho, dê-nos outro.
 Vos estis sal terrae. É muito bom o texto para os outros santos doutores; mas para Santo
 António vem-lhe muito curto. Os outros santos doutores da Igreja foram sal da terra, Santo
-António foi sal da terra e foi sal do mar. Este é o assunto que eu tinha para tomar hoje.",I,IV,"
-<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
+António foi sal da terra e foi sal do mar. Este é o assunto que eu tinha para tomar hoje.",I,IV,"<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
   <body>
     <div>
       <p>
         <lb n=""1""/>Se a <orgName>Igreja</orgName> quer que preguemos de <persName>Santo António</persName> sobre o <term type=""conceito"">Evangelho</term>, dê-nos outro.
-        <lb n=""2""/><cit><q>Vos estis sal terrae.</q></cit> É muito bom o texto para os outros <seg ana=""#enumeração"">santos doutores</seg>; mas para <persName>Santo António</persName>
-        <lb n=""3""/><seg ana=""#hipérbole"">vem-lhe muito curto</seg>. Os outros <seg ana=""#enumeração"">santos doutores</seg> da <orgName>Igreja</orgName> foram <term type=""conceito"">sal da terra</term>, <persName>Santo António</persName> foi <term type=""conceito"">sal da terra</term>
-        <lb n=""4""/>e foi <term type=""conceito"">sal do mar</term>. Este é o assunto que eu tinha para tomar hoje.
+        <lb n=""2""/><cit><q ana=""#citação""><foreign xml:lang=""la"">Vos estis sal terrae.</foreign></q><bibl>Mt 5,13</bibl></cit> É <seg ana=""#antítese"">muito bom</seg> o texto para os outros <rs type=""group"">santos doutores</rs>; mas para <persName>Santo <lb n=""3""/>António</persName> vem-lhe <seg ana=""#antítese"">muito curto</seg>. Os outros <rs type=""group"">santos doutores</rs> da <orgName>Igreja</orgName> foram <seg ana=""#metáfora"">sal da terra</seg>, <persName>Santo <lb n=""4""/>António</persName> <seg ana=""#paralelismo #antítese #enumeração"">foi <seg ana=""#metáfora"">sal da terra</seg> e foi <seg ana=""#metáfora"">sal do mar</seg></seg>. Este é o assunto que eu tinha para tomar hoje.
       </p>
     </div>
   </body>
-</text>
- "
+</text>"
 "Mas há muitos dias que tenho metido no pensamento que nas festas dos santos é
 melhor pregar como eles, que pregar deles. Quanto mais que o são da minha doutrina,
 qualquer que ele seja, tem tido nesta terra uma fortuna tão parecida à de Santo António em
@@ -161,44 +100,36 @@ Arimino, que é força segui-la em tudo. Muitas vezes vos tenho pregado nesta ig
 de manhã e de tarde, de dia e de noite, sempre com doutrina muito clara, muito sólida, muito
 verdadeira, e a que mais necessária e importante é a esta terra, para emenda e reforma dos
 vícios que a corrompem. O fruto que tenho colhido desta doutrina, e se a terra tem tomado
-o sal, ou se tem tomado dele, vós o sabeis e eu por vós o sinto.",I,V,"
-<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
+o sal, ou se tem tomado dele, vós o sabeis e eu por vós o sinto.",I,V,"<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
   <body>
     <div>
       <p>
-        <lb n=""1""/>Mas há muitos dias que tenho metido no pensamento que <seg ana=""#paradoxo"">nas festas dos <term type=""conceito"">santos</term> é
-        <lb n=""2""/>melhor pregar como eles, que pregar deles</seg>. Quanto mais que o são da minha doutrina,
+        <lb n=""1""/>Mas há muitos dias que tenho metido no pensamento que nas festas dos <rs type=""group"">santos</rs> é
+        <lb n=""2""/>melhor <seg ana=""#antítese #paralelismo"">pregar como eles, que pregar deles</seg>. Quanto mais que o são da minha <term type=""conceito"">doutrina</term>,
         <lb n=""3""/>qualquer que ele seja, tem tido nesta terra uma fortuna tão parecida à de <persName>Santo António</persName> em
-        <lb n=""4""/><placeName>Arimino</placeName>, que é força segui-la em tudo. Muitas vezes vos tenho pregado nesta igreja, e noutras,
-        <lb n=""5""/>de manhã e de tarde, de dia e de noite, sempre com <seg ana=""#paralelismo"">doutrina muito clara, muito sólida, muito
-        <lb n=""6""/>verdadeira</seg>, e a que mais necessária e importante é a esta terra, para emenda e reforma dos
-        <lb n=""7""/><term type=""vicio"">vícios</term> que a corrompem. O fruto que tenho colhido desta doutrina, e se a terra tem tomado
-        <lb n=""8""/>o sal, ou se tem tomado dele, vós o sabeis e eu por vós o sinto. 
+        <lb n=""4""/><placeName>Arimino</placeName>, que é força segui-la em tudo. Muitas vezes vos tenho pregado nesta <orgName>igreja</orgName>, e noutras,
+        <lb n=""5""/><seg ana=""#enumeração #paralelismo #antítese"">de manhã e de tarde, de dia e de noite</seg>, sempre com <term type=""conceito"">doutrina</term> <seg ana=""#enumeração #paralelismo""><seg ana=""#anáfora"">muito clara</seg>, <seg ana=""#anáfora"">muito sólida</seg>, <seg ana=""#anáfora"">muito<lb n=""6""/>verdadeira</seg></seg>,
+        e a que mais necessária e importante é a esta terra, para emenda e reforma dos
+        <lb n=""7""/><term type=""vicio"">vícios</term> que a corrompem. O fruto que tenho colhido desta <term type=""conceito"">doutrina</term>, e se a terra tem tomado
+        <lb n=""8""/><seg ana=""#metáfora"">o sal</seg>, ou se tem tomado dele, <seg ana=""#apóstrofe #paralelismo"">vós o sabeis e eu por vós o sinto</seg>.
       </p>
     </div>
   </body>
-</text>
- "
+</text>"
 "Isto suposto, quero hoje, à imitação de Santo António, voltar-me da terra ao mar e,
 já que os homens se não aproveitam, pregar aos peixes. O mar está tão perto que bem me
 ouvirão. Os demais podem deixar o sermão, pois não é para eles. Maria, quer dizer, Domina
 maris: ‘Senhora do mar’; e posto que o assunto seja tão desusado, espero que me não falte
-com a costumada graça. Ave Maria.",I,VI,"
-<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
+com a costumada graça. Ave Maria.",I,VI,"<text xmlns=""http://www.tei-c.org/ns/1.0"" xml:lang=""pt"">
   <body>
     <div>
       <p>
-        <lb n=""1""/>Isto suposto, quero hoje, à imitação de <persName>Santo António</persName>, 
-        <seg ana=""#anáfora"">voltar-me da terra ao mar</seg> e,
-        <lb n=""2""/>já que os <rs type=""group"">homens</rs> se não aproveitam, pregar aos <rs type=""animals"">peixes</rs>. 
-        O <placeName>mar</placeName> está tão perto que bem me ouvirão.
-        <lb n=""3""/>Os demais podem deixar o sermão, pois não é para eles. 
-        <persName>Maria</persName>, quer dizer, <seg ana=""#citação"">Domina maris: <foreign xml:lang=""la"">'Senhora do mar'</foreign></seg>;
-        <lb n=""4""/>e posto que o assunto seja tão desusado, espero que me não falte
-        <seg ana=""#metáfora"">com a costumada graça</seg>. 
-        <seg ana=""#citação"">Ave Maria</seg>.
+        <lb n=""1""/>Isto suposto, quero hoje, à imitação de <persName>Santo António</persName>, <seg ana=""#metáfora #antítese"">voltar-me da terra ao mar</seg> e,
+        <lb n=""2""/>já que <rs type=""group"">os homens</rs> se não aproveitam, <seg ana=""#ironia #antítese"">pregar aos <rs type=""fish"">peixes</rs></seg>. O mar está tão perto que bem me
+        <lb n=""3""/>ouvirão. Os demais podem deixar o sermão, pois não é para eles. <seg ana=""#paronomásia""><persName>Maria</persName>, quer dizer, <cit><q ana=""#citação""><foreign xml:lang=""la"">Domina</foreign></q></cit></seg>
+        <lb n=""4""/><seg ana=""#paronomásia""><cit><q ana=""#citação""><foreign xml:lang=""la"">maris</foreign></q>: <q ana=""#citação"">‘Senhora do mar’</q></cit></seg>; e posto que o assunto seja tão desusado, espero que me não falte
+        <lb n=""5""/>com a costumada <term type=""conceito"">graça</term>. <seg ana=""#apóstrofe"">Ave <persName>Maria</persName>.</seg>
       </p>
     </div>
   </body>
-</text>
- "
+</text>"
